@@ -1,2 +1,0 @@
-//flex : top - bottom
-//align items : cross axis which is left to right here
